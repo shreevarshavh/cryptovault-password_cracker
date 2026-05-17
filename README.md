@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 CryptoVault — Password Cracking Simulation Tool
 
 An educational cybersecurity application that demonstrates how weak passwords
@@ -181,3 +182,6 @@ BACKTRACK(current, target, charset):
 ---
 
 Built with ❤️ for cybersecurity education.
+=======
+# cryptovault-password_cracker
+>>>>>>> 0116ab7d053ec92ff83690f6272e9feb3babf149
